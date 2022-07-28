@@ -4,5 +4,4 @@ void main()
 {
   cout<<"\n hello word";
   getch();
-  }
-  
+}
