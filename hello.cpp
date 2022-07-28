@@ -3,5 +3,6 @@
 void main()
 {
   cout<<"\n hello word";
+  cout<<"\n I am c++ programmer";
   getch();
 }
